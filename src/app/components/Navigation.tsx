@@ -1,6 +1,10 @@
 import { useState, useEffect } from 'react';
 import { Menu, X } from 'lucide-react';
+<<<<<<< HEAD
 import logo from 'C:\\Users\\mikha\\Downloads\\cambridgerussianchoir.github.io-main\\cambridgerussianchoir.github.io-main\\src\\assets\\ab9cb9d4be695267765259e5b48ef00b311d2e9d.png';
+=======
+import logo from 'figma:asset/ab9cb9d4be695267765259e5b48ef00b311d2e9d.png';
+>>>>>>> a4539c9e891095514c69a05e6712a15e598cb6fb
 
 export function Navigation() {
   const [isScrolled, setIsScrolled] = useState(false);
